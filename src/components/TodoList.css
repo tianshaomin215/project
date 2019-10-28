@@ -1,0 +1,16 @@
+.container {
+    padding: 20px;
+}
+
+.container .insert {
+    width: 300px;
+}
+
+.container .submitBtn {
+    margin-left: 10px;
+}
+
+.container .todo-list {
+    margin-top: 20px;
+    width: 300px;
+}
